@@ -45,5 +45,11 @@ https://www.linkedin.com/posts/aviral-vijay-299b5886_strong-intuitions-we-dont-a
 
 ## Second Intuition
 
+###  Strong intution -
+Formula of water does not contain the oxygen atom it contains the nitrogen and hydrogen atoms. Ammonia and liquid nitrogen both has nitrogen where ammonia is used as furtilizer which itself shows -
+###### why the furtilizer needed for farming at the first place? 
+###### what furtilizer does?
+###### The Answer of above questions itself clarify that furtilizer makes the land capable enough to grow seeds into wheat  in better way so crop production increases whereas centuries ago when climate changes was not the problem and water supply was ambient at places and furtilizer was not invented , production of crop was good at places where enough water was available to do farming. In nutshell, Furtilizer removes the gap of quality of sand which require to grow seed into crop with scale  that quality can be quality of land meaning water absorbtion quality or percentage of nitrogen in the land  if we consider the nitrogen and hydrogen is the actual formula of water molecules.
 
+#### This can make a big difference- If a land where there is no availability of water and one need to  do farming then such furtilizers can be developed based on the need  of land  so that food production can increase on the land where farming is not possible right now like  desseretd places. On the other side  inverse equation can be applied to do farming of food production specific to required vitamins to grow each food contain specific vitamin at specific places which will remove  the food crisis for the world. One of the reason to publish this information open source with MIT License is that I belive  Food and Health is a basic need of survival of every humnan being on the planet and should not be treated as priviledge.
 
