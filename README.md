@@ -33,10 +33,17 @@ All it needs is to do attempt to recover all at least so that sooner or later pe
 ##### Link of linkedin post 
 https://www.linkedin.com/posts/aviral-vijay-299b5886_strong-intuitions-we-dont-alive-by-breathing-activity-7312006968397705216-Pjwc?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJS8JUBUFgdtQ0kRLZtL3DTNOg9dVR60Ck
 
+
+##### Images of that post
+
 ![image](https://github.com/user-attachments/assets/a16ac2a1-b4c6-4e05-beda-93e786a2c174)
 
 
 ![image](https://github.com/user-attachments/assets/7dfe0cf6-5b06-4895-8a8e-c158c30d9f5f)
+
+
+
+## Second Intuition
 
 
 
