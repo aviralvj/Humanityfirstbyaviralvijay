@@ -3,7 +3,9 @@ This repository is a collection of my thoughts and my intuitions nwhich can make
 
 ## First Intuition
 
-Strong Intuitions - we don't alive by breathing oxygen. we breathe in the same way earth is created like we breath Nitrogen which helps us alive. 
+
+
+In my opinion and Strong Intuitions - we don't alive by breathing oxygen. we breathe in the same way earth is created like we breath Nitrogen which helps us alive. 
 
 Nitrogen is nature's vitamin E or Praana Vayu in Ayurveda wider the nerves in our body which most need in brain to function properly. In Ayurveda, Its clearly mentioned as Vayu which in one of the Panch Tatva.
 
@@ -45,7 +47,7 @@ https://www.linkedin.com/posts/aviral-vijay-299b5886_strong-intuitions-we-dont-a
 
 ## Second Intuition
 
-###  Strong intution -
+### In my opinion and Strong intution -
 Formula of water does not contain the oxygen atom it contains the nitrogen and hydrogen atoms. Ammonia and liquid nitrogen both has nitrogen where ammonia is used as furtilizer which itself shows -
 ###### why the furtilizer needed for farming at the first place? 
 ###### what furtilizer does?
