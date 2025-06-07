@@ -71,7 +71,7 @@ we all know electricty generates by clouds  it means friction in water in air ge
 
 #### And with the same logic, fire comes when friction occurs  by coliding two stones, it  means stones inherit fire which is similar to above example when hydrogen inherit fire, so here stone can be good source of hydrogen or Vitamin A + Energy.
 
-#### And for farming perspective, sunlight is limited so if land would have enough fire inside then it is possible to do farming of product which is possible in hotter places. in that case that fire can be bring by Hydrogen itself or (Vitamin A+ energy) or stone or stone dust.
+#### And for farming perspective, if somewhere sunlight is limited in that case if land would have enough fire inside then it is possible to do farming of product which is possible in hotter places. in that case that fire can be bring by Hydrogen itself or (Vitamin A+ energy) or stone or stone dust.
 
 ## The above intuitions are capable of farming possible across the globe. 
 
