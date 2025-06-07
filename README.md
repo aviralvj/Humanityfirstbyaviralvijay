@@ -1,5 +1,5 @@
 # Humanityfirstbyaviralvijay
-This repository is a collection of my thoughts and my intuitions nwhich can make the world better. some  of them are already shared on linkedin and others are sharing here so that anyone can use it in future without any hurdles for making the world better place to live and empower the humanity in many ways.
+This repository is a collection of my thoughts and my intuitions which can make the world better. some  of them are already shared on linkedin and others are sharing here so that anyone can use it in future without any hurdles for making the world better place to live and empower the humanity in many ways.
 
 ## First Intuition
 
